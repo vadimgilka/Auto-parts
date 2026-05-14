@@ -7,5 +7,5 @@ def get_meta():
     return {
         'model_version': '1',
         'data_version': '1',
-        'description': 'Fruit recognition model using YOLO architecture',
+        'description': 'Auto parts recognition model using YOLO architecture',
     }
